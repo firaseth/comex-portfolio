@@ -1,3 +1,4 @@
+<img width="300" height="150" alt="content_748d6f4a-bb4e-4803-a3fa-e5b29380b1ed-6" src="https://github.com/user-attachments/assets/7c21d169-2911-4251-9caf-ec1ed996f77e" />
 
 
 Live SiteLicense: MITNo DependenciesZero Build Steps
