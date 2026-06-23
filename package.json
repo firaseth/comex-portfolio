@@ -1,0 +1,31 @@
+{
+  "name": "comex-portfolio",
+  "version": "1.0.0",
+  "description": "Premium creative development studio portfolio — single-file HTML with interactive particle mesh, 3D parallax, and scroll-driven animations.",
+  "author": "comex <hello@comex.dev>",
+  "license": "MIT",
+  "keywords": [
+    "portfolio",
+    "creative-development",
+    "single-page",
+    "vanilla-javascript",
+    "css-animations",
+    "particle-system",
+    "dark-theme",
+    "responsive",
+    "accessible"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/firaseth/comex-portfolio.git"
+  },
+  "homepage": "https://firaseth.github.io/comex-portfolio/",
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "npx gh-pages -d ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.0",
+    "gh-pages": "^6.1.0"
+  }
+}
